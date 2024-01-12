@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naveen
 ====================================================================================================================================
 
-Full-stack Developer
+Full-stack Web Developer
 --------------------
 
-I am a full-stack developer with 2 years of experience building web applications. I have a strong understanding of front-end technologies such as HTML, CSS, JavaScript, and Typescript, as well as back-end technologies such as C#, ASP DotNet Core, and Microsoft SQL Server. I am experienced in using modern web development frameworks such as Angular. I have contributed to the development/designing of end-to-end cloud-based web applications under an agile development lifecycle. In addition, I am comfortable working with version control systems like Git and agile development methodologies. I am a proactive problem-solver and a strong team player.
+I am a full-stack Web developer with 3+ years of experience building web applications. I have a strong understanding of front-end technologies such as HTML, CSS, JavaScript, and Typescript, as well as back-end technologies such as C#, ASP DotNet Core, Entity Framework Core, and Microsoft SQL Server. I am experienced in using modern web development frameworks such as Angular. I have contributed to the development/designing of end-to-end cloud-based web applications under an agile development lifecycle. In addition, I am comfortable working with version control systems like Git, Microsoft TFS, and agile development methodologies. I am a proactive problem-solver and a strong team player.
 
 * 🌍  I'm based in Bangalore, Karnataka
 * ✉️  You can contact me at [naveenkumar19981119@gmail.com](mailto:naveenkumar19981119@gmail.com)
-* 🧠  I'm learning Node and React
+* 🧠  I'm learning Data Structures and Algorithms with Javascript
 * 🤝  I'm open to collaborating on Projects
-* ⚡  As a full-stack developer, I combine technical skills with creativity to deliver elegant, user-friendly web applications that exceed client expectations. With a focus on problem-solving and staying up-to-date with the latest technologies, I am committed to delivering exceptional solutions to meet the needs of end-users.
+* ⚡  As a full-stack Web developer, I combine technical skills with creativity to deliver elegant, user-friendly web applications that exceed client expectations. With a focus on problem-solving and staying up-to-date with the latest technologies, I am committed to delivering exceptional solutions to meet end-users' needs.
 
 ### Skills
 
